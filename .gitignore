@@ -3,3 +3,7 @@
 
 # Mac environment
 .DS_Store
+
+# IMDB database files
+imdb/*.tsv
+imdb/*.tsv.gz
