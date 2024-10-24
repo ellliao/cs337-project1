@@ -1,2 +1,5 @@
+# JupyterNotebook environment
+.ipynb_checkpoints/*
+
 # Mac environment
 .DS_Store
