@@ -2,3 +2,4 @@ IMDB_FILES='{name.basics,title.akas,title.basics,title.crew,title.episode,title.
 curl "https://datasets.imdbws.com/$IMDB_FILES.tsv.gz" \
     --create-dirs \
     -o imdb/#1.tsv.gz
+gunzip ./imdb/*.tsv.gz
