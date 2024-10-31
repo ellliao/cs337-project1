@@ -11,3 +11,28 @@ You'll need to download the appropriate IMDB datasets to run this code. I've inc
  ```
  
  The Python code will handle the rest. For further documentation on the IMDB datasets, see the [IMDB page](https://developer.imdb.com/non-commercial-datasets/).
+
+ ##Instructions on what file
+ pip install ftfy
+ pip install nltk
+ pip install Unidecode
+ pip install SpaCy
+ %pip install blis
+%pip install langdetect
+!python -m spacy download en_core_web_sm
+
+##Packages Import
+import re
+from ftfy import fix_text
+import spacy
+import json
+from unidecode import unidecode
+from langdetect import detect, DetectorFactory
+import datetime
+import csv
+from collections import Counter
+import difflib
+from nltk.metrics import distance
+
+#how to install them
+You can find these install packages command in our CS337_project1.ipynb
