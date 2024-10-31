@@ -1,82 +1,136 @@
 {
       "hosts": [
-            "Amy Poehler",
-            "Tina Fey"
+            "amy poehler",
+            "tina fey"
       ],
-      "Best": {},
-      "best": {},
-      "the": {},
-      "comedy/musical award": {},
-      "best foreign language": {},
-      "The": {},
-      "Golden Globe for": {},
-      "for": {},
-      "best Original Song": {},
-      "Watch Jodie Foster's epic": {},
-      "award s": {},
-      "Looking every bit a winner, JenniferLawrence stopped backstage with her award": {},
-      "\"This award is": {},
-      "Looking every bit a winner, JenniferLawrence stopped backstage with her": {},
-      "Looking every bit a winner, JenniferLawrence stopped backstage with": {},
-      "Looking every bit a winner, JenniferLawrence stopped backstage": {},
-      "Looking every bit a winner, JenniferLawrence stopped": {},
-      "Tina Fey and Amy Poehler's": {},
-      "BEST": {},
-      "his first": {},
-      "Tina Fey and Amy": {},
-      "My": {},
-      "'Argo' takes home": {},
-      "Affleck named": {},
-      "'Argo,' 'Les Miz' win": {},
-      "'Argo,' 'Les Miz'": {},
-      "Jennifer Lawrence": {},
-      "an award": {},
-      "\"Something about": {},
-      "over": {},
-      "goldenglobes": {},
-      "Here is Glenn Close doing her": {},
-      "Watch Jodie Foster's": {},
-      "This award is": {},
-      "And": {},
-      "How much more exciting would": {},
-      "one of": {},
-      "Watch Jodie": {},
-      "big, Jodie goes long, Amy": {},
-      "Well done, Lena! Aziz Ansari & Jason": {},
-      "Did": {},
-      "GREAT monologue by Fey & Poehler.": {},
-      "Fifteen minutes into": {},
-      "Top News Tina Fey": {},
-      "Award : Hugh": {},
-      "Lucy Liu gets my unique": {},
-      "THE": {},
-      "Jodie Foster deserves": {},
-      "with 'Girls':": {},
-      "Fey & Poehler should host": {},
-      "Kristin Wiig": {},
-      "ALL": {},
-      "\"Adele,": {},
-      "Love": {},
-      "Every awards show should have": {},
-      "Here it is,": {},
-      "not because she was": {},
-      "Well it's": {},
-      "Will Ferrell's": {},
-      "Our": {},
-      "Now": {},
-      "best actor in a motion picture, comedy or musical for \"Les Miserables\" GoldenGlobes": {},
-      "Best 'or Musical": {},
-      "Tina Fey and Amy Poehler's best": {},
-      "I": {},
-      "for Best Original Song - Motion Picture": {},
-      "'Argo,' 'Les": {},
-      "Here": {},
-      "Last year's": {},
-      "This award is for every": {},
-      "How much more exciting": {},
-      "Jodie Foster": {},
-      "big, Jodie goes long,": {},
-      "Hugh": {},
-      "Top News": {},
-      "except": {}
+      "best supporting actor at": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "best": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "the": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "tina fey and amy poehler's best": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "for": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "'argo' takes home": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "looking every bit a winner, jenniferlawrence stopped backstage with her award": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "tina fey and amy": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "\"this award is": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "an award": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "looking every bit a winner, jenniferlawrence stopped backstage with her": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "looking every bit a winner, jenniferlawrence stopped backstage with": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "looking every bit a winner, jenniferlawrence stopped backstage": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "looking every bit a winner, jenniferlawrence stopped": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "his first": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "tina fey and amy poehler's": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "'argo,' 'les": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "affleck named": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "'argo' takes": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "how much more": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "over": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "our": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "last year's": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "now": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "top news": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      },
+      "love": {
+            "winner": "",
+            "nominees": [],
+            "presenters": []
+      }
 }
