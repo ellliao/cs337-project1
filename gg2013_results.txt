@@ -1,4 +1,4 @@
-Hosts: Amy Poehler Tina Fey
+Hosts: Amy Poehler, Tina Fey
 
 Award: Best Director
 Winner: Ben Affleck
@@ -18,7 +18,7 @@ Presenters:
 Award: Best Picture
 Winner: Argo
 Nominees: 
-Presenters: Bclinton Yay @Juliaroberts
+Presenters: Bclinton, Yay @Juliaroberts
 
 Award: Award
 Winner: Christoph Waltz
@@ -73,7 +73,7 @@ Presenters:
 Award: Best Foreign Language Film
 Winner: 'Amour'
 Nominees: 
-Presenters: @Schwarzenegger Sylvester Stallone
+Presenters: @Schwarzenegger, Sylvester Stallone
 
 Award: Best Comedy Or Musical
 Winner: Hugh Jackman
