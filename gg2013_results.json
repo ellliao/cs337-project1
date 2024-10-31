@@ -15,7 +15,8 @@
       "best original song": {
             "winner": "adele",
             "nominees": [
-                  "adele"
+                  "adele",
+                  "jon bon jovi is a"
             ],
             "presenters": [
                   "lo"
@@ -24,34 +25,34 @@
       "best supporting actress": {
             "winner": "anne hathaway",
             "nominees": [
-                  "anne hathaway",
-                  "christoph waltz"
+                  "anne hathaway"
             ],
             "presenters": []
       },
       "best picture": {
             "winner": "argo",
             "nominees": [
-                  "argo"
+                  "argo",
+                  "one of them"
             ],
             "presenters": [
-                  "bclinton",
-                  "yay @juliaroberts"
+                  "yay @juliaroberts",
+                  "bclinton"
             ]
       },
       "award": {
             "winner": "christoph waltz",
             "nominees": [
-                  "christoph waltz",
-                  "congrats!! goldenglobes",
-                  "argo director @benaffleck"
+                  "christoph waltz"
             ],
             "presenters": []
       },
       "best song": {
             "winner": "adele",
             "nominees": [
-                  "adele"
+                  "adele",
+                  "she",
+                  "'safe & sound' is"
             ],
             "presenters": []
       },
@@ -65,8 +66,7 @@
       "best drama at the": {
             "winner": "\"homeland\"",
             "nominees": [
-                  "\"homeland\"",
-                  "@benaffleck argo"
+                  "\"homeland\""
             ],
             "presenters": []
       },
@@ -105,15 +105,16 @@
       "best tv comedy at the": {
             "winner": "@lenadunham girls",
             "nominees": [
-                  "@lenadunham girls",
-                  "@hbo girls"
+                  "@lenadunham girls"
             ],
             "presenters": []
       },
       "best tv drama": {
             "winner": "homeland",
             "nominees": [
-                  "homeland"
+                  "homeland",
+                  "i don't watch a single show",
+                  "the @seahawks"
             ],
             "presenters": []
       },
@@ -121,19 +122,18 @@
             "winner": "'amour'",
             "nominees": [
                   "'amour'",
-                  "winner: \"amour\""
+                  "keep your fingers crossed for amour at the @goldenglobes where it's"
             ],
             "presenters": [
-                  "@schwarzenegger",
-                  "sylvester stallone"
+                  "sylvester stallone",
+                  "@schwarzenegger"
             ]
       },
       "best comedy or musical": {
             "winner": "hugh jackman",
             "nominees": [
-                  "hugh jackman",
-                  "lesmiserables",
-                  "\"les mis\""
+                  "part of me",
+                  "hugh jackman"
             ],
             "presenters": []
       },
@@ -205,8 +205,7 @@
       "best actor in a tv drama for \"homeland'": {
             "winner": "damian lewis",
             "nominees": [
-                  "damian lewis",
-                  "claire danes"
+                  "damian lewis"
             ],
             "presenters": []
       },

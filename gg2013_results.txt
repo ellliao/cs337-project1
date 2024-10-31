@@ -7,27 +7,27 @@ Presenters: Halle Berry
 
 Award: Best Original Song
 Winner: Adele
-Nominees: Adele
+Nominees: Adele, Jon Bon Jovi Is A
 Presenters: Lo
 
 Award: Best Supporting Actress
 Winner: Anne Hathaway
-Nominees: Anne Hathaway, Christoph Waltz
+Nominees: Anne Hathaway
 Presenters: 
 
 Award: Best Picture
 Winner: Argo
-Nominees: Argo
-Presenters: Bclinton, Yay @Juliaroberts
+Nominees: Argo, One Of Them
+Presenters: Yay @Juliaroberts, Bclinton
 
 Award: Award
 Winner: Christoph Waltz
-Nominees: Christoph Waltz, Congrats!! Goldenglobes, Argo Director @Benaffleck
+Nominees: Christoph Waltz
 Presenters: 
 
 Award: Best Song
 Winner: Adele
-Nominees: Adele
+Nominees: Adele, She, 'Safe & Sound' Is
 Presenters: 
 
 Award: Best Tv Series, Drama
@@ -37,7 +37,7 @@ Presenters:
 
 Award: Best Drama At The
 Winner: "Homeland"
-Nominees: "Homeland", @Benaffleck Argo
+Nominees: "Homeland"
 Presenters: 
 
 Award: Best Screenplay
@@ -62,22 +62,22 @@ Presenters:
 
 Award: Best Tv Comedy At The
 Winner: @Lenadunham Girls
-Nominees: @Lenadunham Girls, @Hbo Girls
+Nominees: @Lenadunham Girls
 Presenters: 
 
 Award: Best Tv Drama
 Winner: Homeland
-Nominees: Homeland
+Nominees: Homeland, I Don'T Watch A Single Show, The @Seahawks
 Presenters: 
 
 Award: Best Foreign Language Film
 Winner: 'Amour'
-Nominees: 'Amour', Winner: "Amour"
-Presenters: @Schwarzenegger, Sylvester Stallone
+Nominees: 'Amour', Keep Your Fingers Crossed For Amour At The @Goldenglobes Where It'S
+Presenters: Sylvester Stallone, @Schwarzenegger
 
 Award: Best Comedy Or Musical
 Winner: Hugh Jackman
-Nominees: Hugh Jackman, Lesmiserables, "Les Mis"
+Nominees: Part Of Me, Hugh Jackman
 Presenters: 
 
 Award: Best Goldenglobes Jokes
@@ -127,7 +127,7 @@ Presenters:
 
 Award: Best Actor In A Tv Drama For "Homeland'
 Winner: Damian Lewis
-Nominees: Damian Lewis, Claire Danes
+Nominees: Damian Lewis
 Presenters: 
 
 Award: Best Film In The Comedy, Musical Category:
