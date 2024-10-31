@@ -66,4 +66,4 @@ You can find these install packages command in our CS337_project1.ipynb
 4: Final Output Result files: "gg2013_results.json" and "gg2013_results.txt"
 
 ##GitHub repository
-https://github.com/ellliao/cs337-project1/tree/main
+https://github.com/ellliao/cs337-project1.git
