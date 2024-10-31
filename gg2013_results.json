@@ -5,26 +5,35 @@
       ],
       "best director": {
             "winner": "ben affleck",
-            "nominees": [],
+            "nominees": [
+                  "ben affleck"
+            ],
             "presenters": [
                   "halle berry"
             ]
       },
       "best original song": {
             "winner": "adele",
-            "nominees": [],
+            "nominees": [
+                  "adele"
+            ],
             "presenters": [
                   "lo"
             ]
       },
       "best supporting actress": {
             "winner": "anne hathaway",
-            "nominees": [],
+            "nominees": [
+                  "anne hathaway",
+                  "christoph waltz"
+            ],
             "presenters": []
       },
       "best picture": {
             "winner": "argo",
-            "nominees": [],
+            "nominees": [
+                  "argo"
+            ],
             "presenters": [
                   "bclinton",
                   "yay @juliaroberts"
@@ -32,61 +41,88 @@
       },
       "award": {
             "winner": "christoph waltz",
-            "nominees": [],
+            "nominees": [
+                  "christoph waltz",
+                  "congrats!! goldenglobes",
+                  "argo director @benaffleck"
+            ],
             "presenters": []
       },
       "best song": {
             "winner": "adele",
-            "nominees": [],
+            "nominees": [
+                  "adele"
+            ],
             "presenters": []
       },
       "best tv series, drama": {
             "winner": "\"homeland\"",
-            "nominees": [],
+            "nominees": [
+                  "\"homeland\""
+            ],
             "presenters": []
       },
       "best drama at the": {
             "winner": "\"homeland\"",
-            "nominees": [],
+            "nominees": [
+                  "\"homeland\"",
+                  "@benaffleck argo"
+            ],
             "presenters": []
       },
       "best screenplay": {
             "winner": "quentin tarantino",
-            "nominees": [],
+            "nominees": [
+                  "quentin tarantino"
+            ],
             "presenters": [
                   "who watched robert pattinson"
             ]
       },
       "best animated film": {
             "winner": "brave",
-            "nominees": [],
+            "nominees": [
+                  "brave"
+            ],
             "presenters": [
                   "maybe he's"
             ]
       },
       "best mini": {
             "winner": "gamechange",
-            "nominees": [],
+            "nominees": [
+                  "gamechange"
+            ],
             "presenters": []
       },
       "best dressed": {
             "winner": "kate hudson in alexander mcqueen and worst dressed",
-            "nominees": [],
+            "nominees": [
+                  "kate hudson in alexander mcqueen and worst dressed"
+            ],
             "presenters": []
       },
       "best tv comedy at the": {
             "winner": "@lenadunham girls",
-            "nominees": [],
+            "nominees": [
+                  "@lenadunham girls",
+                  "@hbo girls"
+            ],
             "presenters": []
       },
       "best tv drama": {
             "winner": "homeland",
-            "nominees": [],
+            "nominees": [
+                  "homeland"
+            ],
             "presenters": []
       },
       "best foreign language film": {
             "winner": "'amour'",
-            "nominees": [],
+            "nominees": [
+                  "'amour'",
+                  "winner: \"amour\""
+            ],
             "presenters": [
                   "@schwarzenegger",
                   "sylvester stallone"
@@ -94,64 +130,91 @@
       },
       "best comedy or musical": {
             "winner": "hugh jackman",
-            "nominees": [],
+            "nominees": [
+                  "hugh jackman",
+                  "lesmiserables",
+                  "\"les mis\""
+            ],
             "presenters": []
       },
       "best goldenglobes jokes": {
             "winner": "fox news",
-            "nominees": [],
+            "nominees": [
+                  "fox news"
+            ],
             "presenters": [
                   "bill clinton"
             ]
       },
       "best moments": {
             "winner": "usa today",
-            "nominees": [],
+            "nominees": [
+                  "usa today"
+            ],
             "presenters": []
       },
       "'argo,' 'les miz' win best": {
             "winner": "picture golden globes; day",
-            "nominees": [],
+            "nominees": [
+                  "picture golden globes; day"
+            ],
             "presenters": []
       },
       "best actor drama for \"lincoln\"": {
             "winner": "daniel day-lewis",
-            "nominees": [],
+            "nominees": [
+                  "daniel day-lewis"
+            ],
             "presenters": []
       },
       "best ...\"": {
             "winner": "salma hayek goldenglobes",
-            "nominees": [],
+            "nominees": [
+                  "salma hayek goldenglobes"
+            ],
             "presenters": []
       },
       "best comedy series": {
             "winner": "girls",
-            "nominees": [],
+            "nominees": [
+                  "girls"
+            ],
             "presenters": []
       },
       "best string of yesterdays i have ever had.\"": {
             "winner": "gorgeous anne hathaway to her adorable new hubby adam goldenglobes",
-            "nominees": [],
+            "nominees": [
+                  "gorgeous anne hathaway to her adorable new hubby adam goldenglobes"
+            ],
             "presenters": []
       },
       "best comedy actor in a television series": {
             "winner": "don cheadle",
-            "nominees": [],
+            "nominees": [
+                  "don cheadle"
+            ],
             "presenters": []
       },
       "best comedy/musical": {
             "winner": "winner: \"les miserables\"",
-            "nominees": [],
+            "nominees": [
+                  "winner: \"les miserables\""
+            ],
             "presenters": []
       },
       "best actor in a tv drama for \"homeland'": {
             "winner": "damian lewis",
-            "nominees": [],
+            "nominees": [
+                  "damian lewis",
+                  "claire danes"
+            ],
             "presenters": []
       },
       "best film in the comedy, musical category:": {
             "winner": "`les miserables'",
-            "nominees": [],
+            "nominees": [
+                  "`les miserables'"
+            ],
             "presenters": []
       }
 }
