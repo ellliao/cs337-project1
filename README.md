@@ -54,3 +54,13 @@ from nltk.metrics import distance
 #how to install them
 
 You can find these install packages command in our CS337_project1.ipynb
+
+##Files
+
+1: gg2013.json
+
+2: "gg2013_user_metadata.json" and "gg2013_preprocessed.json"
+
+3: parsed_data.json
+
+4: Final Output Result files: "gg2013_results.json" and "gg2013_results.txt"
