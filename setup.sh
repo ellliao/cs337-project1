@@ -1,3 +1,6 @@
+## Install all required packages.
+pip install -r requirements.txt
+
 ## Download and unzip IMDB data.
 # Available datasets: name.basics,title.akas,title.basics,title.crew,title.episode,title.principals,title.ratings
 # Names are easy to identify, so we only want titles
