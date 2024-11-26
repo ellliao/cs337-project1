@@ -1,69 +1,44 @@
 # cs337-project1
 
-## IMDB setup
+## Setup
 
-You'll need to download the appropriate IMDB datasets to run this code. I've included a shell script that will set this up for you.
+### Prerequisites
+
+Before beginning setup, you must have the following installed:
+
+* **Python >=3.10**
+* **Pip**
+
+You must also have some method of **opening and running `.ipynb` files**, such as Jupyter, Colab, or a supported IDE.
+
+### Package installation & IMDB downloads
+
+You'll need to install some required packages and download the appropriate IMDB datasets to run this code. I've written a shell script that can do it for you.
 
  Simply go to **Terminal** or the equivalent on your device and run the following from within this project directory:
 
  ```
- bash ./imdb_setup.sh
+ bash setup.sh
  ```
  
- The Python code will handle the rest. For further documentation on the IMDB datasets, see the [IMDB page](https://developer.imdb.com/non-commercial-datasets/).
+ For further documentation on the IMDB datasets, see the relevant [IMDB page](https://developer.imdb.com/non-commercial-datasets/).
 
- ##Instructions on what file
- 
- pip install ftfy
- 
- pip install nltk
- 
- pip install Unidecode
- 
- pip install SpaCy
- 
- %pip install blis
- %pip install langdetect
+## Running the code
 
-!python -m spacy download en_core_web_sm
+The code is housed in the `CS337_project1.ipynb` file. Because this is a `.ipynb` file, there are a couple of ways to run it:
 
-##Packages Import
+1. Open `CS337_project1.ipynb` in a supported interface, e.g. Jupyter, and select "Run All".
 
-import re
+2. Use the [`nbconvert` tool](https://nbconvert.readthedocs.io/en/latest/index.html) to convert the file to a `.py` file, then run it from the CLI.
 
-from ftfy import fix_text
+The program will prompt you to enter an input JSON file path. This should be the full path to your input data:
 
-import spacy
+```
+Enter input JSON file path: [path/to/input_file].json
+```
 
-import json
+The results will be stored in `[path/to/input_file]_results.json` (raw) and `[path/to/input_file]_results.txt` (human-readable).
 
-from unidecode import unidecode
+## GitHub repository
 
-from langdetect import detect, DetectorFactory
-
-import datetime
-
-import csv
-
-from collections import Counter
-
-import difflib
-
-from nltk.metrics import distance
-
-#how to install them
-
-You can find these install packages command in our CS337_project1.ipynb
-
-##Files
-
-1: gg2013.json
-
-2: "gg2013_user_metadata.json" and "gg2013_preprocessed.json"
-
-3: parsed_data.json
-
-4: Final Output Result files: "gg2013_results.json" and "gg2013_results.txt"
-
-##GitHub repository
 https://github.com/ellliao/cs337-project1.git
