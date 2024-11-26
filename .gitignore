@@ -7,3 +7,6 @@
 # IMDB database files
 imdb/*.tsv
 imdb/*.tsv.gz
+
+# Virtual environment files
+.venv/*
